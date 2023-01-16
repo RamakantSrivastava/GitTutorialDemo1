@@ -1,0 +1,4 @@
+Diff is Awesom
+Create diff after making to into staging
+Here again going to staging area so that we can compare last commit and current stagin
+india Direct Commit
